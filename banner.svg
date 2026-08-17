@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Thiago Leites - Information Technology Student">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#10151C"/>
+      <stop offset="100%" stop-color="#171D26"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="50%" cy="45%" r="52%">
+      <stop offset="0%" stop-color="#252E39"/>
+      <stop offset="72%" stop-color="#1A212A"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E6EDF3" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#E6EDF3" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#E6EDF3" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B949E" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8B949E" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#8B949E" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#sky)"/>
+
+  <circle cx="948" cy="130" r="104" fill="url(#moon)"/>
+  <circle cx="948" cy="130" r="104" fill="none" stroke="#2B333E" stroke-width="1"/>
+
+  <rect x="700" y="82" width="500" height="2" fill="url(#mist)"/>
+  <rect x="660" y="168" width="540" height="2" fill="url(#mist)"/>
+  <rect x="740" y="206" width="460" height="2" fill="url(#mist)"/>
+
+  <!-- ground -->
+  <path d="M 600 272 C 700 262, 790 270, 870 264 C 950 258, 1050 268, 1200 260 L 1200 300 L 600 300 Z" fill="#1A212A"/>
+  <g stroke="#39424D" stroke-width="1.7" stroke-linecap="round" fill="none">
+    <path d="M 858 266 L 851 246"/><path d="M 868 265 L 870 244"/><path d="M 878 267 L 887 250"/>
+    <path d="M 1024 264 L 1019 244"/><path d="M 1036 263 L 1041 246"/><path d="M 1048 265 L 1058 250"/>
+    <path d="M 684 270 L 677 254"/><path d="M 697 269 L 702 253"/><path d="M 712 271 L 721 257"/>
+  </g>
+
+  <!-- lone figure -->
+  <g fill="#EDF1F5">
+    <!-- hakama -->
+    <path d="M 913 271 C 917 238, 922 210, 926 192 L 970 192 C 974 210, 979 238, 983 271 C 960 274, 936 274, 913 271 Z"/>
+    <!-- torso -->
+    <path d="M 926 192 L 928 154 C 933 146, 963 146, 968 154 L 970 192 Z"/>
+    <!-- sleeves -->
+    <path d="M 927 155 C 919 157, 914 160, 912 165 L 908 189 L 923 191 L 925 168 Z"/>
+    <path d="M 969 155 C 977 157, 982 160, 984 165 L 988 189 L 973 191 L 971 168 Z"/>
+    <!-- neck + head -->
+    <path d="M 941 150 L 955 150 L 954 138 L 942 138 Z"/>
+    <circle cx="948" cy="126" r="11"/>
+    <!-- hair + topknot -->
+    <path d="M 937 122 C 936 112, 942 106, 950 106 C 958 106, 962 112, 960 121 C 955 116, 942 116, 937 122 Z"/>
+    <path d="M 957 110 C 962 106, 966 103, 968 100 C 967 106, 963 111, 959 114 Z"/>
+  </g>
+
+  <!-- fold lines, cut back into the silhouette -->
+  <g stroke="#12181F" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.85">
+    <path d="M 937 196 C 934 220, 930 246, 927 266"/>
+    <path d="M 948 196 L 948 268"/>
+    <path d="M 959 196 C 962 220, 966 246, 969 266"/>
+    <path d="M 926 168 L 970 168"/>
+    <path d="M 924 172 L 916 172"/>
+    <path d="M 972 172 L 980 172"/>
+  </g>
+
+  <!-- sword -->
+  <path d="M 916 205 C 942 197, 972 187, 1002 178" fill="none" stroke="#C9D1D9" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M 906 208 C 911 206, 916 205, 921 203" fill="none" stroke="#7D8791" stroke-width="5" stroke-linecap="round"/>
+
+  <ellipse cx="948" cy="273" rx="36" ry="4" fill="#0D1117" opacity="0.6"/>
+
+  <!-- name block -->
+  <text x="92" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="50" letter-spacing="9" fill="#F0F3F6">THIAGO LEITES</text>
+  <rect x="94" y="164" width="400" height="2" fill="url(#rule)"/>
+  <text x="96" y="196" font-family="'Courier New', monospace" font-size="15" letter-spacing="4.5" fill="#8B949E">INFORMATION TECHNOLOGY STUDENT</text>
+  <text x="96" y="222" font-family="'Courier New', monospace" font-size="13" letter-spacing="4.5" fill="#5E6873">MONTEVIDEO &#183; URUGUAY</text>
+</svg>
