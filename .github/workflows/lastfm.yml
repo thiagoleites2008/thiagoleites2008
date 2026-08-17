@@ -1,0 +1,17 @@
+name: Update Last.fm Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-lastfm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dxnter/lastfm-readme@v1
+        with:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: thiago_lei
+          COMMIT_MESSAGE: 'update music stats'
+          DATE_FORMAT: 'dd/MM/yyyy'
