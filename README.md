@@ -106,19 +106,19 @@ Eighteen. Still early on the road, and that is exactly the point.
 <!--START_LASTFM_USER_INFO:{"display": ["playcount", "artistCount", "trackCount"]}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - thiago_lei](https://www.last.fm/user/thiago_lei)**
 
-> **Playcount**: 14,625<br/>
-> **Artists**: 514<br/>
-> **Tracks**: 1,432<br/>
+> **Playcount**: 14,676<br/>
+> **Artists**: 516<br/>
+> **Tracks**: 1,435<br/>
 <!--END_LASTFM_USER_INFO-->
 
 <!--START_LASTFM_ARTISTS:{"period": "overall", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `1,456 ▶️` ∙ **[Milo j](https://www.last.fm/music/Milo+j)**<br/>
-> `855 ▶️` ∙ **[Paulo Londra](https://www.last.fm/music/Paulo+Londra)**<br/>
+> `1,460 ▶️` ∙ **[Milo j](https://www.last.fm/music/Milo+j)**<br/>
+> `857 ▶️` ∙ **[Paulo Londra](https://www.last.fm/music/Paulo+Londra)**<br/>
 > `691 ▶️` ∙ **[Trueno](https://www.last.fm/music/Trueno)**<br/>
 > `544 ▶️` ∙ **[Cro](https://www.last.fm/music/Cro)**<br/>
-> `525 ▶️` ∙ **[Niño Condor](https://www.last.fm/music/Ni%C3%B1o+Condor)**<br/>
+> `526 ▶️` ∙ **[Niño Condor](https://www.last.fm/music/Ni%C3%B1o+Condor)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_TRACKS:{"period": "overall", "rows": 5}-->
