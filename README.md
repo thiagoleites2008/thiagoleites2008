@@ -106,7 +106,7 @@ Eighteen. Still early on the road, and that is exactly the point.
 <!--START_LASTFM_USER_INFO:{"display": ["playcount", "artistCount", "trackCount"]}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - thiago_lei](https://www.last.fm/user/thiago_lei)**
 
-> **Playcount**: 14,826<br/>
+> **Playcount**: 14,862<br/>
 > **Artists**: 520<br/>
 > **Tracks**: 1,441<br/>
 <!--END_LASTFM_USER_INFO-->
@@ -114,9 +114,9 @@ Eighteen. Still early on the road, and that is exactly the point.
 <!--START_LASTFM_ARTISTS:{"period": "overall", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `1,473 ▶️` ∙ **[Milo j](https://www.last.fm/music/Milo+j)**<br/>
-> `864 ▶️` ∙ **[Paulo Londra](https://www.last.fm/music/Paulo+Londra)**<br/>
-> `698 ▶️` ∙ **[Trueno](https://www.last.fm/music/Trueno)**<br/>
+> `1,476 ▶️` ∙ **[Milo j](https://www.last.fm/music/Milo+j)**<br/>
+> `870 ▶️` ∙ **[Paulo Londra](https://www.last.fm/music/Paulo+Londra)**<br/>
+> `703 ▶️` ∙ **[Trueno](https://www.last.fm/music/Trueno)**<br/>
 > `546 ▶️` ∙ **[Cro](https://www.last.fm/music/Cro)**<br/>
 > `527 ▶️` ∙ **[Niño Condor](https://www.last.fm/music/Ni%C3%B1o+Condor)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -127,8 +127,8 @@ Eighteen. Still early on the road, and that is exactly the point.
 > `109 ▶️` ∙ **[Solifican12](https://www.last.fm/music/Milo+j/_/Solifican12)** - [Milo j](https://www.last.fm/music/Milo+j)<br/>
 > `98 ▶️` ∙ **[QQMA](https://www.last.fm/music/Ni%C3%B1o+Condor/_/QQMA)** - [Niño Condor](https://www.last.fm/music/Ni%C3%B1o+Condor)<br/>
 > `94 ▶️` ∙ **[PUMAS](https://www.last.fm/music/Trueno/_/PUMAS)** - [Trueno](https://www.last.fm/music/Trueno)<br/>
+> `84 ▶️` ∙ **[Daddy Yankee: Bzrp Music Sessions, Vol. 0/66](https://www.last.fm/music/Bizarrap/_/Daddy+Yankee:+Bzrp+Music+Sessions,+Vol.+0%2F66)** - [Bizarrap](https://www.last.fm/music/Bizarrap)<br/>
 > `84 ▶️` ∙ **[FLA](https://www.last.fm/music/Milo+j/_/FLA)** - [Milo j](https://www.last.fm/music/Milo+j)<br/>
-> `83 ▶️` ∙ **[Daddy Yankee: Bzrp Music Sessions, Vol. 0/66](https://www.last.fm/music/Bizarrap/_/Daddy+Yankee:+Bzrp+Music+Sessions,+Vol.+0%2F66)** - [Bizarrap](https://www.last.fm/music/Bizarrap)<br/>
 <!--END_LASTFM_TRACKS-->
 
 <br/>
