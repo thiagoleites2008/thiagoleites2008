@@ -106,7 +106,7 @@ Eighteen. Still early on the road, and that is exactly the point.
 <!--START_LASTFM_USER_INFO:{"display": ["playcount", "artistCount", "trackCount"]}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - thiago_lei](https://www.last.fm/user/thiago_lei)**
 
-> **Playcount**: 15,401<br/>
+> **Playcount**: 15,421<br/>
 > **Artists**: 526<br/>
 > **Tracks**: 1,460<br/>
 <!--END_LASTFM_USER_INFO-->
@@ -114,8 +114,8 @@ Eighteen. Still early on the road, and that is exactly the point.
 <!--START_LASTFM_ARTISTS:{"period": "overall", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `1,525 ▶️` ∙ **[Milo j](https://www.last.fm/music/Milo+j)**<br/>
-> `906 ▶️` ∙ **[Paulo Londra](https://www.last.fm/music/Paulo+Londra)**<br/>
+> `1,531 ▶️` ∙ **[Milo j](https://www.last.fm/music/Milo+j)**<br/>
+> `910 ▶️` ∙ **[Paulo Londra](https://www.last.fm/music/Paulo+Londra)**<br/>
 > `737 ▶️` ∙ **[Trueno](https://www.last.fm/music/Trueno)**<br/>
 > `553 ▶️` ∙ **[Cro](https://www.last.fm/music/Cro)**<br/>
 > `540 ▶️` ∙ **[Niño Condor](https://www.last.fm/music/Ni%C3%B1o+Condor)**<br/>
@@ -124,7 +124,7 @@ Eighteen. Still early on the road, and that is exactly the point.
 <!--START_LASTFM_TRACKS:{"period": "overall", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - All Time**
 
-> `112 ▶️` ∙ **[Solifican12](https://www.last.fm/music/Milo+j/_/Solifican12)** - [Milo j](https://www.last.fm/music/Milo+j)<br/>
+> `113 ▶️` ∙ **[Solifican12](https://www.last.fm/music/Milo+j/_/Solifican12)** - [Milo j](https://www.last.fm/music/Milo+j)<br/>
 > `98 ▶️` ∙ **[QQMA](https://www.last.fm/music/Ni%C3%B1o+Condor/_/QQMA)** - [Niño Condor](https://www.last.fm/music/Ni%C3%B1o+Condor)<br/>
 > `95 ▶️` ∙ **[PUMAS](https://www.last.fm/music/Trueno/_/PUMAS)** - [Trueno](https://www.last.fm/music/Trueno)<br/>
 > `87 ▶️` ∙ **[FLA](https://www.last.fm/music/Milo+j/_/FLA)** - [Milo j](https://www.last.fm/music/Milo+j)<br/>
