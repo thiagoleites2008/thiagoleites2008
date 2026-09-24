@@ -106,9 +106,9 @@ Eighteen. Still early on the road, and that is exactly the point.
 <!--START_LASTFM_USER_INFO:{"display": ["playcount", "artistCount", "trackCount"]}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - thiago_lei](https://www.last.fm/user/thiago_lei)**
 
-> **Playcount**: 15,869<br/>
-> **Artists**: 541<br/>
-> **Tracks**: 1,550<br/>
+> **Playcount**: 15,882<br/>
+> **Artists**: 542<br/>
+> **Tracks**: 1,552<br/>
 <!--END_LASTFM_USER_INFO-->
 
 <!--START_LASTFM_ARTISTS:{"period": "overall", "rows": 5}-->
@@ -117,7 +117,7 @@ Eighteen. Still early on the road, and that is exactly the point.
 > `1,564 ▶️` ∙ **[Milo j](https://www.last.fm/music/Milo+j)**<br/>
 > `938 ▶️` ∙ **[Paulo Londra](https://www.last.fm/music/Paulo+Londra)**<br/>
 > `779 ▶️` ∙ **[Trueno](https://www.last.fm/music/Trueno)**<br/>
-> `572 ▶️` ∙ **[El Cuarteto De Nos](https://www.last.fm/music/El+Cuarteto+De+Nos)**<br/>
+> `573 ▶️` ∙ **[El Cuarteto De Nos](https://www.last.fm/music/El+Cuarteto+De+Nos)**<br/>
 > `558 ▶️` ∙ **[Cro](https://www.last.fm/music/Cro)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
