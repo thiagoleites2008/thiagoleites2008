@@ -106,28 +106,28 @@ Eighteen. Still early on the road, and that is exactly the point.
 <!--START_LASTFM_USER_INFO:{"display": ["playcount", "artistCount", "trackCount"]}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - thiago_lei](https://www.last.fm/user/thiago_lei)**
 
-> **Playcount**: 16,120<br/>
-> **Artists**: 584<br/>
-> **Tracks**: 1,645<br/>
+> **Playcount**: 16,185<br/>
+> **Artists**: 585<br/>
+> **Tracks**: 1,654<br/>
 <!--END_LASTFM_USER_INFO-->
 
 <!--START_LASTFM_ARTISTS:{"period": "overall", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `1,571 ▶️` ∙ **[Milo j](https://www.last.fm/music/Milo+j)**<br/>
-> `951 ▶️` ∙ **[Paulo Londra](https://www.last.fm/music/Paulo+Londra)**<br/>
+> `1,580 ▶️` ∙ **[Milo j](https://www.last.fm/music/Milo+j)**<br/>
+> `981 ▶️` ∙ **[Paulo Londra](https://www.last.fm/music/Paulo+Londra)**<br/>
 > `782 ▶️` ∙ **[Trueno](https://www.last.fm/music/Trueno)**<br/>
-> `587 ▶️` ∙ **[El Cuarteto De Nos](https://www.last.fm/music/El+Cuarteto+De+Nos)**<br/>
+> `589 ▶️` ∙ **[El Cuarteto De Nos](https://www.last.fm/music/El+Cuarteto+De+Nos)**<br/>
 > `561 ▶️` ∙ **[Cro](https://www.last.fm/music/Cro)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_TRACKS:{"period": "overall", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - All Time**
 
-> `114 ▶️` ∙ **[Solifican12](https://www.last.fm/music/Milo+j/_/Solifican12)** - [Milo j](https://www.last.fm/music/Milo+j)<br/>
+> `115 ▶️` ∙ **[Solifican12](https://www.last.fm/music/Milo+j/_/Solifican12)** - [Milo j](https://www.last.fm/music/Milo+j)<br/>
 > `98 ▶️` ∙ **[QQMA](https://www.last.fm/music/Ni%C3%B1o+Condor/_/QQMA)** - [Niño Condor](https://www.last.fm/music/Ni%C3%B1o+Condor)<br/>
 > `96 ▶️` ∙ **[PUMAS](https://www.last.fm/music/Trueno/_/PUMAS)** - [Trueno](https://www.last.fm/music/Trueno)<br/>
-> `89 ▶️` ∙ **[FLA](https://www.last.fm/music/Milo+j/_/FLA)** - [Milo j](https://www.last.fm/music/Milo+j)<br/>
+> `90 ▶️` ∙ **[FLA](https://www.last.fm/music/Milo+j/_/FLA)** - [Milo j](https://www.last.fm/music/Milo+j)<br/>
 > `86 ▶️` ∙ **[Daddy Yankee: Bzrp Music Sessions, Vol. 0/66](https://www.last.fm/music/Bizarrap/_/Daddy+Yankee:+Bzrp+Music+Sessions,+Vol.+0%2F66)** - [Bizarrap](https://www.last.fm/music/Bizarrap)<br/>
 <!--END_LASTFM_TRACKS-->
 
